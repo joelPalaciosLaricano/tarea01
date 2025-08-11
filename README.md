@@ -13,3 +13,7 @@ Me especializo en el desarrollo web y gestión de bases de datos, combinando bue
 ### En constante aprendizaje
 * Mejorando mis habilidades en arquitectura de software y buenas prácticas.
 * Interesado en profundizar en backend (Django, APIs) y análisis de datos.
+## Aplicaciones Desarrolladas
+He participado en el desarrollo de diversas aplicaciones, principalmente en el ámbito académico y personal, como:
+* Creación de aplicaciones con funcionalidades de inicio de sesión, paneles de usuario y conexión a bases de datos para almacenar y gestionar información. 
+* Sistema de manejo de negocios para Hoteles y Farmacias.
