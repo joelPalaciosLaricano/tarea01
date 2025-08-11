@@ -17,3 +17,7 @@ Me especializo en el desarrollo web y gestión de bases de datos, combinando bue
 He participado en el desarrollo de diversas aplicaciones, principalmente en el ámbito académico y personal, como:
 * Creación de aplicaciones con funcionalidades de inicio de sesión, paneles de usuario y conexión a bases de datos para almacenar y gestionar información. 
 * Sistema de manejo de negocios para Hoteles y Farmacias.
+## Experiencia Previa
+En mis proyectos de SENATI, participé en el desarrollo de sistemas de gestión y páginas web de manera individual y en equipo. Fui destacado por mi proactividad y mi capacidad para aplicar tecnologías como HTML, CSS, JavaScript, SQL y resolver problemas. Adicionalmente, realicé proyectos personales que me permitieron expandir mis habilidades y demostrar mi iniciativa autodidacta en la industria.
+## LinkedIn
+www.linkedin.com/in/joel-orlando-palacios-laricano-92839a368
